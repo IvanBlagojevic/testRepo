@@ -1,6 +1,0 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello Ivan</h1>
-</body>
-</html>
