@@ -1,4 +1,5 @@
 deployment:
   tasks:
   - export DEPLOYPATH=/home/greencl/public_html/
+  - rm -r /home/greencl/public_html/*
   - /bin/cp index.html $DEPLOYPATH
